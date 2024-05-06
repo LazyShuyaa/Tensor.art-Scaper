@@ -1,7 +1,13 @@
-**Simple scraper for tensor.art** 
+# Simple Scraper for Tensor.Art
 
-_1. Sign in tensor.art with Google_
-2. Grab your auth token from the browser network tab
-3. Paste it into the code.
-4. Adjust your prompt.
-5. Want to switch models? Find the models id and models file id on tensor.art/models network tab
+## Overview
+
+This tool simplifies the process of scraping content from Tensor.Art, allowing users to access models and data easily. By following a few simple steps, you can sign in, retrieve your authentication token, and customize prompts according to your needs.
+
+## Usage
+
+1. **Sign in with Google**: Log in to Tensor.Art using your Google account.
+2. **Retrieve Auth Token**: Grab your authentication token from the browser's network tab.
+3. **Integration**: Paste the obtained token into the provided code.
+4. **Customization**: Adjust prompts as necessary to suit your requirements.
+5. **Model Switching**: Easily switch between models by locating the model ID and file ID on the Tensor.Art/models network tab.
